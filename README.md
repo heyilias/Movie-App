@@ -1,5 +1,5 @@
-# Movie-App
-Build a Movie App using Laravel, Tailwind CSS and The Movie DB REST API.
+## Movie-App
+# Build a Movie App using Laravel, Tailwind CSS and The Movie DB REST API.
 
 I go over the different architecture options and the different popular technologies around the Laravel/Vue community. 
 We'll be making use of several Laravel 7 features like the HTTP Client and Blade Components.
